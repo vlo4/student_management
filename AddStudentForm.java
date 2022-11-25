@@ -308,3 +308,4 @@ public class AddStudentForm extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField_LName;
     private javax.swing.JTextField jTextField_Phone;
     // End of variables declaration   
+}
